@@ -1,0 +1,11 @@
+# Robots.txt for EasyStation / 易速站
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.easystation.com/sitemap.xml
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/

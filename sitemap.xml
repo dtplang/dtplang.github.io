@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.easystation.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/"/>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/"/>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://www.easystation.com/zh/about/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/about/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/about/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/about/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Cases Page -->
+  <url>
+    <loc>https://www.easystation.com/zh/cases/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/cases/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/cases/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/cases/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/cases/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/cases/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://www.easystation.com/zh/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/blog/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/blog/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- FAQ Page -->
+  <url>
+    <loc>https://www.easystation.com/zh/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/faq/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/faq/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Search Page -->
+  <url>
+    <loc>https://www.easystation.com/zh/search/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/search/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/search/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/search/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.easystation.com/zh/search/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.easystation.com/en/search/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://www.easystation.com/zh/blog/game-engine-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/blog/game-engine-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/blog/web-dev-trends-2024/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/blog/web-dev-trends-2024/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/blog/cloud-native-best-practices/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/blog/cloud-native-best-practices/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/blog/service-upgrade-announcement/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/blog/service-upgrade-announcement/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Case Studies -->
+  <url>
+    <loc>https://www.easystation.com/zh/cases/case-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/cases/case-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/cases/case-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/cases/case-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/cases/case-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/cases/case-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/cases/case-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/cases/case-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Service Detail Pages -->
+  <url>
+    <loc>https://www.easystation.com/zh/services/game/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/services/game/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/services/web/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/services/web/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/services/mobile/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/services/mobile/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/services/cloud/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/services/cloud/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/services/security/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/services/security/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/zh/services/consulting/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.easystation.com/en/services/consulting/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
